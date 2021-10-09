@@ -1,0 +1,5 @@
+weather report
+beijing,sunny
+urumqi,fog
+chengdu,rain
+shanghai,sun
